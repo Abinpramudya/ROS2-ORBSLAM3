@@ -1,0 +1,33 @@
+%YAML:1.0
+
+Camera.RGB: 1
+Camera.fps: 20
+Camera.height: 540
+Camera.newHeight: 432
+Camera.newWidth: 768
+Camera.type: PinHole
+Camera.width: 960
+Camera1.cx: 485.52860429053993
+Camera1.cy: 216.15454942124103
+Camera1.fx: 483.3658366778515
+Camera1.fy: 484.958184991885
+Camera1.k1: -0.00975041477698234
+Camera1.k2: 0.00586305649877839
+Camera1.p1: -0.00856891793375819
+Camera1.p2: -0.003993828984135552
+File.version: '1.0'
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 7
+ORBextractor.nFeatures: 1000
+ORBextractor.nLevels: 8
+ORBextractor.scaleFactor: 1.2
+Viewer.CameraLineWidth: 3.0
+Viewer.CameraSize: 0.08
+Viewer.GraphLineWidth: 0.9
+Viewer.KeyFrameLineWidth: 1.0
+Viewer.KeyFrameSize: 0.05
+Viewer.PointSize: 2.0
+Viewer.ViewpointF: 500.0
+Viewer.ViewpointX: 0.0
+Viewer.ViewpointY: -0.7
+Viewer.ViewpointZ: -1.8
